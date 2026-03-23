@@ -1,4 +1,4 @@
-# taste-reference Privacy Policy
+# one-bowl Privacy Policy
 
 Last updated: March 2026
 
@@ -40,4 +40,4 @@ We may update this policy. Changes will be reflected on this page with an update
 
 ## Contact
 
-Questions? Email onebowl@tastereference.com
+Questions? Email hello@onebowl.live
