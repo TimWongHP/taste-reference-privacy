@@ -26,7 +26,7 @@ Your data is stored securely on Supabase (cloud infrastructure hosted on AWS). P
 
 ## Deleting your data
 
-You can delete your own taste records from within the app. To delete your entire account and all associated data, email us at hello@tastereference.com and we will process it within 30 days.
+You can delete your own taste records from within the app. To delete your entire account and all associated data, email us at hello@onebowl.live and we will process it within 30 days.
 
 ## Third-party services
 
